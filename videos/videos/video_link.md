@@ -1,7 +1,0 @@
-Retail Store Dashboard – Video Walkthrough
-
-This video provides a short demonstration of the Power BI dashboard,
-showing key visuals, filters, and insights.
-
-Open the link below in your browser to watch the video:
-https://drive.google.com/file/d/12SYKhYd1h7dTuKfE1T4t6n6nOvfpXRGB/view?usp=sharing
