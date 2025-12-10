@@ -1,40 +1,43 @@
 📊 Retail Store Analytics Dashboard – Power BI
 
-A professional interactive Power BI dashboard designed to help retail businesses analyze sales, inventory, and customer trends through clear and actionable visualizations.
+A professional interactive Power BI dashboard designed to help retail businesses analyze sales performance, inventory levels, and customer trends through clear and actionable visualizations.
 
 🔍 Project Overview
 
-This project focuses on analyzing retail store data to provide insights into sales performance, product trends, inventory levels, and customer behavior using Microsoft Power BI.
+This project focuses on analyzing retail store data to provide insights into revenue, product performance, stock management, and customer behavior using Microsoft Power BI.
 
-🖼 Dashboard Preview
+## 🖼 Dashboard Preview
 
-Retail Store Analytics Dashboard
+![HR Analytics Dashboard](Dashboard Preview.png)
 
-🎥 Dashboard Video Walkthrough
+---
 
-Click below to watch a short demo of the dashboard:
+## 🎥 Dashboard Video Walkthrough
 
-➡️ Watch Dashboard Video
+Click below to watch the short demo of the dashboard:
+
+➡️ [Watch Dashboard Video](video/Dashboard-Walkthrough.txt)
+
+---
+
 
 🚀 Key Features
 
-Interactive slicers and filters for dynamic analysis
+Interactive slicers and filters
 
 Clean and easy-to-read visual layout
 
-KPI cards for quick insights on sales and revenue
+KPI cards for quick insights
 
-Product-wise, category-wise, and store-wise analysis
+Product-wise and category-wise analysis
 
-Trend charts for sales, inventory, and customer activity
-
-Alerts for low stock and high-performing products
+Sales and profit trend charts
 
 📁 Files in This Repository
 
 Retail Store Analytics.pbix → Full Power BI report file
 
-Dashboard Preview.png → Screenshot preview of the dashboard
+Retail Store Dashboard.png → Screenshot preview of the dashboard
 
 video folder → Contains dashboard walkthrough link
 
@@ -50,5 +53,3 @@ Explore the interactive dashboard
 
 Wania Irfan
 Power BI Dashboard Developer
-
-⭐ If you find this project helpful, feel free to star this repository.
