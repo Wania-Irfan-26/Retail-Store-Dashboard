@@ -1,0 +1,7 @@
+HR Analytics Dashboard – Video Walkthrough
+
+This video provides a short demonstration of the Power BI dashboard,
+showing key visuals, filters, and insights.
+
+Open the link below in your browser to watch the video:
+https://drive.google.com/file/d/1CJbmAcrUleaj_Q_XrD_C_JOX1c8g63bE/view?usp=sharing
