@@ -20,7 +20,7 @@ This project focuses on analyzing retail store data to provide insights into rev
 
 Click below to watch the short demo of the dashboard:
 
-➡️ [Watch Dashboard Video](video/dashboard-walkthrough.txt)
+➡️ [Watch Dashboard Video](video/dashboard-walkthrough.md)
 
 ---
 
@@ -61,5 +61,5 @@ Click below to watch the short demo of the dashboard:
 
 ## 👩‍💻 Creator
 
-Wania Irfan
+Wania Irfan | 
 Power BI Dashboard Developer
