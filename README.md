@@ -12,7 +12,7 @@ This project focuses on analyzing retail store data to provide insights into rev
 
 ## 🖼 Dashboard Preview
 
-![HR Analytics Dashboard](Dashboard Preview.png)
+![Retail Store Dashboard](Dashboard%20Preview.png)
 
 ---
 
@@ -20,7 +20,7 @@ This project focuses on analyzing retail store data to provide insights into rev
 
 Click below to watch the short demo of the dashboard:
 
-➡️ [Watch Dashboard Video]([video/Dashboard-Walkthrough.txt](https://github.com/Wania-Irfan-26/Retail-Store-Dashboard/blob/main/Video/Dashboard-Walkthrough.txt))
+➡️ [Watch Dashboard Video](./video/Dashboard-Walkthrough.txt)
 
 ---
 
