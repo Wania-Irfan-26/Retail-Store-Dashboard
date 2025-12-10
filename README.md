@@ -27,35 +27,35 @@ Click below to watch the short demo of the dashboard:
 
 ## 🚀 Key Features
 
-Interactive slicers and filters
+- Interactive slicers and filters
 
-Clean and easy-to-read visual layout
+- Clean and easy-to-read visual layout
 
-KPI cards for quick insights
+- KPI cards for quick insights
 
-Product-wise and category-wise analysis
+- Product-wise and category-wise analysis
 
-Sales and profit trend charts
+- Sales and profit trend charts
 
 ---
 
 ## 📁 Files in This Repository
 
-Retail Store Analytics.pbix → Full Power BI report file
+- Retail Store Analytics.pbix → Full Power BI report file
 
-Retail Store Dashboard.png → Screenshot preview of the dashboard
+- Retail Store Dashboard.png → Screenshot preview of the dashboard
 
-video folder → Contains dashboard walkthrough link
+- video folder → Contains dashboard walkthrough link
 
 ---
 
 ## 🛠 How to Use
 
-Download the .pbix file from this repository
+- Download the .pbix file from this repository
 
-Open it using Power BI Desktop
+- Open it using Power BI Desktop
 
-Explore the interactive dashboard
+- Explore the interactive dashboard
 
 ---
 
